@@ -33,10 +33,10 @@ This project helped me understand how the concepts I've been learning actually c
 
 ## What's next?
 I want to keep improving this project by adding things like:
-* ✅ Mark tasks as completed
-* 🗑️ Delete tasks
-* 💾 Save tasks using `localStorage`
-* ⌨️ Add tasks using the Enter key
+- Mark tasks as completed
+- Delete tasks
+- Save tasks using `localStorage`
+- Add tasks using the Enter key
 
 More features = more things to learn :)
 ---
